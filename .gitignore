@@ -17,4 +17,5 @@
 .idea
 *.exe
 
-*pkg
+pkg
+/aGoFirst/bStep/bHelloWorld/pkg
